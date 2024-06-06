@@ -5,7 +5,8 @@ Responsive Landing Page
 ![Design preview](./design/design1.png),(./design/design2.png)
 
 
-## Kullanılan Teknolojiler
+## Mobile
+![Design preview](./design/design2.png)
 
 Bu projede aşağıdaki teknolojiler kullanılmıştır:
 
@@ -13,22 +14,7 @@ Bu projede aşağıdaki teknolojiler kullanılmıştır:
 - CSS
   -JS
 
-## Kurulum
 
-Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyin:
-
-1. Bu depo'yu klonlayın:
-   ```sh
-   git clone https://github.com/kullaniciadi/proje-adi.git
-   ```
-2. Proje dizinine gidin:
-   ```sh
-   cd proje-adi
-   ```
-
-## Kullanım
-
-1. `index.html` dosyasını tarayıcıda açın
 
 ## İletişim
 
