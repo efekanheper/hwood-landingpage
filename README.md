@@ -1,9 +1,9 @@
 # hwood
 
-Landing Page
+Responsive Landing Page
 
-![Design preview](./design/design1.png)
-(./design/design2.png)
+![Design preview](./design/design1.png),(./design/design2.png)
+
 
 ## Kullanılan Teknolojiler
 
@@ -28,13 +28,7 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyi
 
 ## Kullanım
 
-1. `index.html` dosyasını tarayıcıda açın:
-
-   open index.html
-
-   ```
-
-   ```
+1. `index.html` dosyasını tarayıcıda açın
 
 ## İletişim
 
