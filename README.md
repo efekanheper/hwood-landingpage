@@ -2,8 +2,8 @@
 
 Landing Page
 
-![Design preview](./design/design1.jpg)
-(./design/design2.jpg)
+![Design preview](./design/design1.png)
+(./design/design2.png)
 
 ## Kullanılan Teknolojiler
 
